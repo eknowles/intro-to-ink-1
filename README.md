@@ -48,12 +48,12 @@ yarn add typescript ts-node @types/node -D
 ```bash
 mkdir src
 cd src
-touch cli.tsx
+touch index.tsx
 ```
 
 ## Hello World in Ink
 
-Open `src/cli.tsx` in editor.
+Open `src/index.tsx` in editor.
 
 ### Import React
 
